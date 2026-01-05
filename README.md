@@ -4,7 +4,7 @@ A personal portfolio site built with modern frontend tooling. This repository co
 
 ## Deployment
 
-Link :-  
+Link :-  https://soaib-s-portfolio.vercel.app/
 
 ## Features
 
