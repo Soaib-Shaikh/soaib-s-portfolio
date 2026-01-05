@@ -19,7 +19,9 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
 
         {/* LOGO */}
-        <img src={logo} alt="logo" className="h-10" />
+        <NavLink to="/">
+          <img src={logo} alt="logo" className="h-10" />
+        </NavLink>
 
         {/* DESKTOP NAV */}
         <nav className="hidden md:flex gap-10">
