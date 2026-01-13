@@ -68,7 +68,7 @@ const About = () => {
           {[
             ["ri-facebook-fill", "#"],
             ["ri-linkedin-box-fill", "https://www.linkedin.com/in/mohammadsoaib-shaikh-a242173a1/"],
-            ["ri-instagram-line", "#"],
+            ["ri-instagram-line", "https://www.instagram.com/soaib_shaikh_10/"],
             ["ri-github-line", "https://github.com/Soaib-Shaikh"],
           ].map(([icon, link], i) => (
             <a
