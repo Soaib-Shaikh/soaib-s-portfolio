@@ -23,7 +23,7 @@ const About = () => {
               My name is Mohammadsoaib Shaikh, I am a Full Stack Developer with
               expertise in both front-end and back-end technologies. With a deep
               understanding of JavaScript, HTML, CSS, and frameworks such as
-              React, Angular, and Vue.js, I craft intuitive and responsive user
+              React, I craft intuitive and responsive user
               interfaces. I am driven by challenges and constantly strive to
               learn and implement the latest technologies to deliver high-quality
               solutions. My ability to work across all stages of development,
