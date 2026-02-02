@@ -11,7 +11,7 @@ const navLinks = [
   { name: "Contact", path: "/contact" },
 ]
 
-const Navbar = () => {
+const Header = () => {
   const [open, setOpen] = useState(false)
 
   return (
@@ -83,4 +83,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default Header
