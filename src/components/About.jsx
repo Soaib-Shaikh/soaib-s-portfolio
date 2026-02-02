@@ -87,8 +87,8 @@ const About = () => {
 
         {/* DOWNLOAD CV */}
         <div className="text-center mt-10">
-          <NavLink
-            to="/MOHAMMADSOAIB_SHAIKH_Resume.pdf"
+          <a
+            href="/MOHAMMADSOAIB-SHAIKH-Resume.pdf"
             download
             className="
               inline-block px-8 py-4 rounded-xl font-semibold
@@ -98,7 +98,8 @@ const About = () => {
             "
           >
             Download CV
-          </NavLink>
+          </a>
+
         </div>
 
       </div>
