@@ -70,7 +70,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="#"
+                href="https://www.instagram.com/soaib_shaikh_10/"
                 className="hover:text-indigo-400 transition"
               >
                 <i className="ri-instagram-line"></i>
