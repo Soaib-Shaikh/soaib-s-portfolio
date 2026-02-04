@@ -97,7 +97,7 @@ const About = () => {
               hover:scale-105 transition
             "
           >
-            Download CV
+            Download Resume
           </a>
 
         </div>
