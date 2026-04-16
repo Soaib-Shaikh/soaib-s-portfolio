@@ -14,8 +14,13 @@ import blog from '../assets/images/Blog-app.png'
 import restaurant from '../assets/images/Restaurant-website.png'
 import lms from '../assets/images/lms.png'
 import stopwatch from '../assets/images/stop-watch.png'
+import gymwebsite from '../assets/images/gym-website.png'
 
 const projects = [
+  { title: 'Gym Website', img: gymwebsite, link: 'https://gym-website-brown-three.vercel.app/' },
+  { title: 'Library Management System', img: lms, link: 'https://pr-library-management-system-react.vercel.app/' },
+  { title: 'Restaurant Website', img: restaurant, link: 'https://pr-restaurant-website-node-js.onrender.com' },
+  { title: 'Blog Website', img: blog, link: 'https://pr-passport-login-node-js.onrender.com' },
   { title: 'Marketing Website', img: marketing, link: 'https://marketing-website-puce.vercel.app/' },
   { title: 'BizNess Website', img: bizness, link: 'https://bizness-website.vercel.app/' },
   { title: 'Croma Website', img: croma, link: 'https://croma-website-nine.vercel.app/' },
@@ -26,9 +31,6 @@ const projects = [
   { title: 'Corona API', img: corona, link: 'https://pr-corona-api-js.vercel.app/' },
   { title: 'Dog API', img: dog, link: 'https://pr-dog-api-js.vercel.app/' },
   { title: 'Weather API', img: weather, link: 'https://pr-weather-api-js.vercel.app/' },
-  { title: 'Blog Website', img: blog, link: 'https://pr-passport-login-node-js.onrender.com' },
-  { title: 'Restaurant Website', img: restaurant, link: 'https://pr-restaurant-website-node-js.onrender.com' },
-  { title: 'Library Management System', img: lms, link: 'https://pr-library-management-system-react.vercel.app/' },
   { title: 'Stop Watch', img: stopwatch, link: 'https://pr-2-counter-react-js-ten.vercel.app/' },
 ]
 
